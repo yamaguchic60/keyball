@@ -48,6 +48,9 @@ See each directories for each keyboards in a table above.
 4. `make` your Keyball firmware.
 
     ```console
+    # for Yamaguchi ,run this.
+    keyball_repositories % make SKIP_GIT=yes keyball/keyball39:via(via is for using remap)
+
     # Build Keyball39 firmware with "default" keymap
     $ make SKIP_GIT=yes keyball/keyball39:default
 
