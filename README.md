@@ -1,3 +1,11 @@
+#notion by Yamaguchi
+
+auto mouse layer.
+https://zenn.dev/yoichi/articles/keyball-and-mouse-button
+upgrade
+https://github.com/Yowkees/keyball/pull/790/files
+
+
 # Keyball Series
 
 ![Keyball61](./keyball61/doc/rev1/images/kb61_001.jpg)
